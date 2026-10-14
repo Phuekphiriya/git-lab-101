@@ -1,2 +1,2 @@
-Version 1 - Hotfix Update
+Version 1 - Master Update
 Payment system added
